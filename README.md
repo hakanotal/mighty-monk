@@ -4,4 +4,4 @@
 * All of the assets and animations are open sourced content.
 
 ## Game Preview GIF
-<img src='./preview.gif'>
+<img src='./misc/preview.gif'>
